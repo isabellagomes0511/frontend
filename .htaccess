@@ -1,0 +1,3 @@
+Options -Indexes
+DirectoryIndex index.php
+SetEnv API_BASE_URL https://api-simples-0eeo.onrender.com
